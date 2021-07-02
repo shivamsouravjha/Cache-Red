@@ -34,7 +34,8 @@ Because we can store the data on the redis server and remove it after a certain 
 - cd Cache-Red
 - npm install
 - npm start
-Probably you will get an error,becasue you've not started your redis serever.
+Probably you will get an error,becasue you've not started your redis sere
+ver.
 Go and install it and start it. 
 - npm start
 - Call the Postman APIs.
