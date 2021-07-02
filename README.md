@@ -1,5 +1,9 @@
 # Cache-Red
-While using any social media have you ever experienced that unless you refresh the age, the posts don't change? What's the reason behind this?
+While using any social media platform have you ever experienced that unless you refresh the page, the posts don't change? What's the reason behind this?
+
+It's a basic caching.
+
+Now what is that and why is that used can be found in many places.
 
 Well this is one such tutorial(more of a I learnt and built so sharing my learning experience)
 
